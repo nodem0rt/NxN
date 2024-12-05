@@ -1,5 +1,6 @@
 # nodem0rt-nodecrot
 nodem0rt-nodecrot ocean
 
-to install
+to install: 
+
 sudo bash -c 'git clone https://github.com/nodem0rt/nodem0rt-nodecrot.git && cd ocean && chmod ugo+x ocean.sh && ./ocean.sh'
