@@ -1,5 +1,5 @@
 # nodem0rt-nodecrot
-nodem0rt-nodecrot ocean
+nodem0rt-nodecrot
 
 to install: 
 
