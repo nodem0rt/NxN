@@ -3,4 +3,4 @@ nodem0rt-nodecrot ocean
 
 to install: 
 
-sudo bash -c 'git clone https://github.com/nodem0rt/NxN.git && cd NxN && chmod ugo+x ocean.sh && ./ocean.sh'
+sudo bash -c 'git clone https://github.com/nodem0rt/nn.git && cd nn && chmod ugo+x nn.sh && ./nn.sh'
