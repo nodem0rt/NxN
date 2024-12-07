@@ -45,7 +45,7 @@ display_ascii() {
     echo -e "${YELLOW}//     __           __          ${RESET}"
     echo -e "${MAGENTA}// / / __ _____ / /____ ____ ${RESET}"
     echo -e "${RESET}//  / _ / // / _ / __/ -_/ __/ ${RESET}"
-    echo -e "${RED}//   /_//_\_,_/_//_\__/\__/_/    ${RESET}"
+    echo -e "${RED}//   /_/ /_\_,_/_//_\__/\__/_/    ${RESET}"
     echo -e "${GREEN}//                              ${RESET}"
 }
 
