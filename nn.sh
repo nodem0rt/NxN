@@ -38,11 +38,17 @@ print_telegram_icon() {
 }
 
 display_ascii() {
-    echo -e "    ${RED}    ____  __ __    _   ______  ____  ___________${RESET}"
-    echo -e "    ${GREEN}   / __ \\/ //_/   / | / / __ \\/ __ \\/ ____/ ___/${RESET}"
-    echo -e "    ${BLUE}  / / / / ,<     /  |/ / / / / / / / __/  \\__ \\ ${RESET}"
-    echo -e "    ${YELLOW} / /_/ / /| |   / /|  / /_/ / /_/ / /___ ___/ / ${RESET}"
-    echo -e "    ${MAGENTA}/_____/_/ |_|  /_/ |_/\____/_____/_____//____/  ${RESET}"
+    echo -e "${RED}//   ______  ______   ______   ______   __  __   ______     ${RESET}"
+    echo -e "${GREEN}//  /\\__  _\\/\\  __ \\ /\\  == \\ /\\  == \\ /\\ \\/\\ \\ /\\__  _\\    ${RESET}"
+    echo -e "${BLUE}//  \\/_/\\ \\/\\ \\ \\/\\ \\\\ \\  __< \\\\ \\  __< \\\\ \\ \\_\\ \\/_/\\ \\/    ${RESET}"
+    echo -e "${CYAN}//     \\ \\_\\ \\ \\_____\\\\ \\_____\\\\ \\_\\ \\_\\\\ \\_____\\  \\ \\_\\    ${RESET}"
+    echo -e "${YELLOW}//      \\/_/  \\/_____/ \\/_____/ \\/_/ /_/ \\/_____/   \\/_/    ${RESET}"
+    echo -e "${MAGENTA}//   __  __   __  __   __   __   ______  ______   ______    ${RESET}"
+    echo -e "${RESET}//  /\\ \\_\\ \\ /\\ \\/\\ \\ /\\ \"-.\\ \\ /\\__  _\\/\\  ___\\ /\\  == \\   ${RESET}"
+    echo -e "${RED}//  \\ \\  __ \\\\ \\ \\_\\ \\\\ \\ \\-.  \\\\/_/\\ \\/\\ \\  __\\ \\ \\  __<   ${RESET}"
+    echo -e "${GREEN}//   \\ \\_\\ \\_\\\\ \\_____\\\\ \\_\\\"\\_\\  \\ \\_\\ \\ \\_____\\\\ \\_\\ \\_\\ ${RESET}"
+    echo -e "${BLUE}//    \\/_/\\/_/ \\/_____/ \\/_/ \\/_/   \\/_/  \\/_____/ \\/_/ /_/ ${RESET}"
+    echo -e "${CYAN}//                                                           ${RESET}"
 }
 
 # Function to get IP address
@@ -62,7 +68,7 @@ show_menu() {
     display_ascii
     draw_middle_border
     print_telegram_icon
-    echo -e "    ${BLUE}Subscribe to our channel: ${YELLOW}https://t.me/dknodes${RESET}"
+    echo -e "    ${BLUE}Cuan untuk bisa jalan sama ${YELLOW}TOBRUT CANTIK${RESET}"
     draw_middle_border
 
     # Display current working directory and public IP address
