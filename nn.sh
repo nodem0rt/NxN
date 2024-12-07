@@ -34,7 +34,7 @@ draw_bottom_border() {
 }
 
 print_telegram_icon() {
-    echo -e "          ${MAGENTA}${ICON_TELEGRAM} Follow us on Telegram!${RESET}"
+    echo -e "          ${MAGENTA}${ICON_TELEGRAM} TOBRUT HUNTER${RESET}"
 }
 
 display_ascii() {
