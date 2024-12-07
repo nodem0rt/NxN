@@ -42,11 +42,10 @@ display_ascii() {
     echo -e "${GREEN}//   / /____  / /  ______ __/ /_${RESET}"
     echo -e "${BLUE}//  / __/ _ \/ _ \/ __/ // / __/${RESET}"
     echo -e "${CYAN}//  \__/\___/_.__/_/  \_,_/\__/ ${RESET}"
-    echo -e "${MAGENTA}    _            _            ${RESET}"
-    echo -e "${RESET}   | |_ _  _ _ _| |_ ___ _ _  ${RESET}"
-    echo -e "${RED}     | ' \ || | ' \  _/ -_) '_| ${RESET}"
-    echo -e "${GREEN}   |_||_\_,_|_||_\__\___|_|   ${RESET}"
-    echo -e "${BLUE}                               ${RESET}"
+    echo -e "${RED}        __       __            __ ${RESET}"
+    echo -e "${GREEN}//   / /____  / /  ______ __/ /_${RESET}"
+    echo -e "${BLUE}//  / __/ _ \/ _ \/ __/ // / __/${RESET}"
+    echo -e "${CYAN}//  \__/\___/_.__/_/  \_,_/\__/ ${RESET}"
 }
 
 # Function to get IP address
